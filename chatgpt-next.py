@@ -2,7 +2,7 @@ import os
 import openai 
 
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "generate API key from open.ai site and paste your secret api key here"
 
 openai.api_key = os.environ["OPENAI_API_KEY"]
 
